@@ -1,0 +1,14 @@
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\bin\Debug\net6.0\Services.exe
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\bin\Debug\net6.0\Services.runtimeconfig.json
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\bin\Debug\net6.0\Services.dll
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.dll
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\Services.genruntimeconfig.cache
+C:\Users\ismay\OneDrive\Masaüstü\Namespace,Dll,Static,Extension\Practice\Services\obj\Debug\net6.0\ref\Services.dll
